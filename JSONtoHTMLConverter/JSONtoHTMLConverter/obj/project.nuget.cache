@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUWaIo1cNveaX3vR6rJxP+Kdc0pdlnQR9Z4JEnVHvA52NbyUwalbGkOnH6sQMMU5y0lZqMzzCzyck7PHPmNg1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grego\\source\\repos\\JSONtoHTMLConverter\\JSONtoHTMLConverter\\JSONtoHTMLConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grego\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

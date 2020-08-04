@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONtoHTMLConverter", "JSONtoHTMLConverter\JSONtoHTMLConverter.csproj", "{44BA2CA1-DF2F-4B7A-9333-DAADC57C79F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BA2CA1-DF2F-4B7A-9333-DAADC57C79F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BA2CA1-DF2F-4B7A-9333-DAADC57C79F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BA2CA1-DF2F-4B7A-9333-DAADC57C79F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BA2CA1-DF2F-4B7A-9333-DAADC57C79F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80624A7E-53C3-455A-94F7-D677C1207C3E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\bin\Debug\netcoreapp3.1\JSONtoHTMLConverter.exe
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\obj\Debug\netcoreapp3.1\JSONtoHTMLConverter.AssemblyInfoInputs.cache
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\obj\Debug\netcoreapp3.1\JSONtoHTMLConverter.AssemblyInfo.cs
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\bin\Debug\netcoreapp3.1\JSONtoHTMLConverter.deps.json
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\bin\Debug\netcoreapp3.1\JSONtoHTMLConverter.runtimeconfig.json
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\bin\Debug\netcoreapp3.1\JSONtoHTMLConverter.runtimeconfig.dev.json
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\bin\Debug\netcoreapp3.1\JSONtoHTMLConverter.dll
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\bin\Debug\netcoreapp3.1\JSONtoHTMLConverter.pdb
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\obj\Debug\netcoreapp3.1\JSONtoHTMLConverter.csproj.CoreCompileInputs.cache
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\obj\Debug\netcoreapp3.1\JSONtoHTMLConverter.csproj.CopyComplete
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\obj\Debug\netcoreapp3.1\JSONtoHTMLConverter.dll
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\obj\Debug\netcoreapp3.1\JSONtoHTMLConverter.pdb
+C:\Users\grego\source\repos\JSONtoHTMLConverter\JSONtoHTMLConverter\obj\Debug\netcoreapp3.1\JSONtoHTMLConverter.genruntimeconfig.cache
